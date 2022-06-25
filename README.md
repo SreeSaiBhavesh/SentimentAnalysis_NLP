@@ -2,9 +2,10 @@
 <h1 align="center">Sentiment Analysis</h1>
 <p align="center">
     Wanted to analyse the sentiment of the texts whether they meant positive or negative  ?? No Problem, You can analyse the sentiment of the Text / Reviews now. 💡 <br/> 
-    Wanted to visualize the postive and negative words of the sentence ?? Now you it's in your hands, Visualize the positive and negative sentiment words of the sentence. <br/>
+    Wanted to visualize the postive and negative words of the sentence ?? Now you it's in your hands, Visualize the positive and negative sentiment words of the sentence as below 👇<br/>
 </p>
-    
+<p align = 'center'><img src="Images/wordcloud.jpg" alt="logo" height="300" width="500"></p> 
+  
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://cdn-icons-png.flaticon.com/512/3306/3306613.png" width="25" height="25"> About The Project
 <p>Sentiment analysis on reviews of the movie from the imdb movie review Dataset using concepts like </p>

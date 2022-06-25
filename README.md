@@ -27,7 +27,9 @@
  * gensim
  * Tqdm
 
-
+## <img src="https://cdn-icons-png.flaticon.com/512/6823/6823853.png" width="25" height="25"> Screenshots
+<img src="Images/positiveWordCloud.JPG" alt="logo" height="300" width="500">
+<img src="Images/NegativeWordCloud.JPG" alt="logo" height="300" width="500">
 
 ## 🏅 Accuracy Results
 

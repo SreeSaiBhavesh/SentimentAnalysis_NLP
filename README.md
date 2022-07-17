@@ -9,7 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## <img src="https://cdn-icons-png.flaticon.com/512/3306/3306613.png" width="25" height="25"> About The Project
 <p>Sentiment analysis on reviews of the movie from the imdb movie review Dataset using concepts like </p>
- <ul> <li> BagOfWords(BOW) </li>
+ <ul> <li> Bag Of Words(BOW) - Count Vectorizer </li>
  <li> Tf-idf(Term Frequency- Inverse Document Frequency)</li>
  <li>  Word2Vec</li> </ul>
 

@@ -33,7 +33,7 @@
 
 ## 🏅 Accuracy Results
 
-<h3>Bag Of Words</h3>
+<h3>Bag Of Words - Count Vectorizer</h3>
 <b>Naive-Bayes</b> - 83.872% ~ (84%) <br>
 <b>Random Forest</b> - 83.96% ~ (84%)
 
